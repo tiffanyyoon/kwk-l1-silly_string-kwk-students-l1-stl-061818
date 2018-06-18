@@ -1,6 +1,11 @@
 your_favorite_word = "facade"
 puts "My favorite word is #{your_favorite_word}".upcase 
-puts "I'M NOT SHOUTING".lowercase
+puts "I'M NOT SHOUTING".downcase
+puts "supercalifragilisticexpialidocious".length 
+big_word = mom
+bigger_word = wow
+puts "#{bigger_word} + #{big}"
+
 
 # Challenge 1: Fill this string in with your favorite word
 
