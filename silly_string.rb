@@ -1,5 +1,6 @@
 your_favorite_word = "facade"
-puts "My favorite word is #{your_favorite_word}"
+puts "My favorite word is #{your_favorite_word}".upcase 
+puts "My favorite word is #{your_favorite_word}".lowercase 
 
 # Challenge 1: Fill this string in with your favorite word
 
