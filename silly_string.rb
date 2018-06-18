@@ -1,4 +1,5 @@
-"facade"
+your_favorite_word = "facade"
+puts "My favorite word is #{your_favorite_word}"
 
 # Challenge 1: Fill this string in with your favorite word
 
