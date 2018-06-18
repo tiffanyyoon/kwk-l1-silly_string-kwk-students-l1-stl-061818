@@ -6,6 +6,10 @@ big_word = "mom"
 bigger_word = "wow"
 puts "#{bigger_word} + #{big}""
 
+string = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
+
+puts string.gsub(/A/, '0').gsub(/a/, 'o')
+
 
 # Challenge 1: Fill this string in with your favorite word
 
